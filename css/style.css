@@ -32,3 +32,21 @@ footer{
     background-position: center;
     background-size: cover !important;
 }
+
+.division{
+    background-repeat: no-repeat !important;
+    background-position: center;
+    background-size: cover !important;
+}
+
+#plano-luz-division{
+    background-image: url(/img/footer.jpg);
+}
+
+#volumen-luz-division{
+    background-image: url(/img/footer.jpg);
+}
+
+#tutorial-hugo-division{
+    background-image: url(/img/footer.jpg);
+}
