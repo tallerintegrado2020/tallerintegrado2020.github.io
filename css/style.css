@@ -1,6 +1,8 @@
+/* Estilos y cambios propios */
+
 .btn-primary{
-    background-color: #BB1F38;
-    border-color: #BB1F38;
+    background-color: #BB1F38 !important;
+    border-color: #BB1F38 !important;
 }
 
 .btn-primary:hover, .btn-primary:active, .btn-primary:focus {
@@ -9,11 +11,11 @@
 }
 
 .btn-outline-secondary:hover {
-    background-color: #BB1F38;
+    background-color: #BB1F38 !important;
 }
 
 .background-prueba{
     /* background-image: url(/img/header-1.jpg); */
-    background-repeat: no-repeat;
-    background-size: cover;
+    background-repeat: no-repeat !important;
+    background-size: cover !important;
 }
