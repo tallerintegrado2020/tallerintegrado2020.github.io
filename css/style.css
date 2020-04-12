@@ -19,3 +19,10 @@
     background-repeat: no-repeat !important;
     background-size: cover !important;
 }
+
+footer{
+    background-image: url(/img/footer.jpg);
+    background-repeat: no-repeat !important;
+    background-position: center;
+    background-size: cover !important;
+}
