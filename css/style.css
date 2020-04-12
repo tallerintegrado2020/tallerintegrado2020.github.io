@@ -1,0 +1,19 @@
+.btn-primary{
+    background-color: #BB1F38;
+    border-color: #BB1F38;
+}
+
+.btn-primary:hover, .btn-primary:active, .btn-primary:focus {
+    background-color: #fff !important;
+    color: #6C757D !important;
+}
+
+.btn-outline-secondary:hover {
+    background-color: #BB1F38;
+}
+
+.background-prueba{
+    /* background-image: url(/img/header-1.jpg); */
+    background-repeat: no-repeat;
+    background-size: cover;
+}
