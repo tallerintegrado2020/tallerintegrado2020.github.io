@@ -40,11 +40,11 @@ footer{
 }
 
 #plano-luz-division{
-    background-image: url(/img/footer.jpg);
+    background-image: url(/img/plano-luz-divisor.jpg);
 }
 
 #volumen-luz-division{
-    background-image: url(/img/footer.jpg);
+    background-image: url(/img/volumen-luz-divisor.jpg);
 }
 
 #tutorial-hugo-division{
@@ -63,6 +63,6 @@ footer{
 }
 
 .inner img:hover{
-	-webkit-transform: scale(1.3);
-	transform: scale(1.3);
+	-webkit-transform: scale(1.2);
+	transform: scale(1.2);
 }
