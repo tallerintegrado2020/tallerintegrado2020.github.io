@@ -28,23 +28,23 @@ footer, .division{
 }
 
 footer{background-image: url(/img/footer.jpg);}
-
+/* POST 1 2 Y 3 */
 #plano-luz-division{background-image: url(/img/plano-luz-divisor.jpg);}
-
+/* POST 4 */
 #volumen-luz-division{background-image: url(/img/volumen-luz-divisor.jpg);}
-
+/* POST 5 */
 #tutorial-hugo-division{background-image: url(/img/footer.jpg); /* CAMBIAR */}
-
+/* POST 6 */
 #movilidad-post-division{background-image: url(/img/footer.jpg);/* CAMBIAR */}
-
+/* POST 7 */
 #software-post-division{background-image: url(/img/footer.jpg);/* CAMBIAR */}
-
+/* POST 8 */
 #ferula-post-division{background-image: url(/img/footer.jpg);/* CAMBIAR */}
-
+/* POST 9 */
 #investigacion-division{background-image: url(/img/footer.jpg);/* CAMBIAR */}
-
+/* POST 10 */
 #proyecto-division{background-image: url(/img/footer.jpg);/* CAMBIAR */}
-
+/* POST 11 */
 #drone-keyshot-division{background-image: url(/img/footer.jpg);/* CAMBIAR */}
 
 .inner{
